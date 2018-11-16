@@ -2,6 +2,8 @@
 
 Plays typing writer sound after every hit.
 
+TypeNoisyBuilt.zip contains the executable app.
+
 ## Motivation
 
 I didn't find any app that does how i want.
